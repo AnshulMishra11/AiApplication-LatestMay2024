@@ -102,7 +102,7 @@ const Chat = () => {
 
     try {
       const response = await axios({
-        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyD8uJt1aT7etsqL7Ixw9l4TBOdwhy6v3B0`,
+        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key="YOUR_KEY"`,
         method: "post",
         data: {
           contents: [{ parts: [{ text: `Craft a comprehensive summary that delves into the nuances and intricacies of the given text, ensuring each key point is thoroughly explored and articulated for detailed note-taking purposes for ${data}` }] }]
