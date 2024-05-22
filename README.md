@@ -9,3 +9,6 @@ AI Chat App using Generative Language Client API
 - Get API key from: Google
 - `npm install`
 - `npm run dev`
+
+## Checkout here 
+ - https://chatbyanshul.vercel.app/
