@@ -1,12 +1,11 @@
 # Chat - AI
+## Developed in April 2024
 
 AI Chat App using Generative Language Client API
-
-[chat-ai](https://ai.visheshpandey.com)
 
 ## Setup Procedure
 
 - Copy .env.example to .env
-- Get API key from: [api-key](https://aistudio.google.com/app/apikey)
+- Get API key from: Google
 - `npm install`
 - `npm run dev`
