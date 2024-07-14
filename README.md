@@ -11,7 +11,7 @@ AI Chat App using Generative Language Client API
 - `npm run dev`
 
 ## Checkout here 
- - https://chatbyanshul.vercel.app/
+ - ....
 
 ## Checkout other projects  
  - https://direct.me/anshulmishra
